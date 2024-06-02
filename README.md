@@ -1,0 +1,2 @@
+# Linear-Algebra-Mini-Library
+Linear Algebra library I built in C++ that is capable of performing basic matrix arithmetic (+, -, *), computing the inverse of a matrix, determinant, and more.
