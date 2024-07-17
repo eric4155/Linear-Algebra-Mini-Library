@@ -83,6 +83,3 @@ private:
 };
 
 #endif
-/***********************************************
- * TODO: FINISH FUNCTION TO SOLVE SYSTEM OF EQUATIONS  AND ROWECHELON FORM
-*/
