@@ -471,10 +471,7 @@ Matrix Matrix::Transpose() const {
   }
   return transpose;
 }
-/******************************
- * FINISH RREF AND SOLVE METHODS AT A LATER DATE
- * ***************************************
-*/
+
 void Matrix::ReducedEchelon() {
   for (int col = 0; col < nCols_ - 1; ++col) {
     if (std::abs(matrix_ptr_[col][col]) < kTolerance) {
